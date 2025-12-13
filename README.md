@@ -24,7 +24,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: khaituonq
+name: khaituong
 located_in: TayNinh, VietNam
 current_job: Full Stack Developer
 education: "Bachelor's in TayNinh Pedagogical College"
